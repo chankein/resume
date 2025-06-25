@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Kein Chan
-    tagline: Full Stack Engineer
+    tagline: Senior Full-stack Technical Consultant <br/> Data Architect
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -82,8 +82,7 @@ brief:
       Senior Engineer with over 10 years of experience in server-side development and practical AI/Big-Data projects, aside from server-side development, also has the ability to independently develop iOS and Windows programs.<br/>
       Provide solutions for the Japanese Government, Toyota, Rakuten Pay, SoftBank, Fuji Film(Xerox), nanamusic, and Fujitsu Network Solutions.<br/>
       <br/>
-    changelanguage: 轉中文
-    changelanguageurl: https://keinchan.com/resume-zh/ 
+   
 
 career-profile:
     title: Career Profile
@@ -101,6 +100,9 @@ career-profile:
         - **Vendor Management**: Japanese family registry digitization project (coordination with Russian OCR SDK supplier)
       <br/>
       For detailed project experience, please visit:<a href="https://keinchan.com/resume/project.html">https://keinchan.com/resume/project.html</a>
+    changelanguage: 轉中文
+    changelanguageurl: https://keinchan.com/resume-zh/ 
+
 experiences:
 
     - role: Senior Full Stack Technical Consultant&Data Architect
