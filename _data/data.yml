@@ -79,7 +79,7 @@ sidebar:
 brief:
     title: About Me
     summary: |
-      Senior Engineer with over 8 years of experience in server-side development and practical AI/Big-Data projects, aside from server-side development, also has the ability to independently develop iOS and Windows programs.<br/>
+      Senior Engineer with over 10 years of experience in server-side development and practical AI/Big-Data projects, aside from server-side development, also has the ability to independently develop iOS and Windows programs.<br/>
       Provide solutions for the Japanese Government, Toyota, Rakuten Pay, SoftBank, Fuji Film(Xerox), nanamusic, and Fujitsu Network Solutions.<br/>
       <br/>
     changelanguage: 轉中文
@@ -103,7 +103,7 @@ career-profile:
       For detailed project experience, please visit:<a href="https://keinchan.com/resume/project.html">https://keinchan.com/resume/project.html</a>
 experiences:
 
-    - role: Senior Full Stack Technical Consultant & Data Architect
+    - role: Senior Full Stack Technical Consultant&Data Architect
       time: 2022.10 - Present
       company: Amigo Technology Consulting Studio, Tokyo
       details: |
@@ -114,20 +114,19 @@ experiences:
         - **Azas Project**: Azas is a digital safety management platform for construction sites that allows workers to independently report daily safety hazards and record safety behaviors through a smartphone app, optimizing the safety of the construction environment. Responsible for implementing core modules and ensuring system compatibility.
         - **Japan Music Creation App - Nanamusic Project**: Responsible for backend management development and system maintenance, promptly addressing system failures caused by version updates, malicious attacks, etc.
   
-    - role: Server-Side Engineer (Section Leader)
+    - role: Backend Engineer (Backend Technical Expert)
       time: 2019.09 - 2022.10
       company: Outsourcing Technology(TSE Code:2427), Tokyo 
       details: |
-        Provided server-side solutions for TRI-AD, Fuji Film(Xerox), and Fujitsu Network Solutions.
-        - Designed and developed a Microstructure Services System that controls and manages over 3000 robots for Toyota Smart Logistics in Woven City.
-        - Developed 5 windows applications deploy OCR techs for the census registration system in the Japanese Government.
-        - Developed a network monitoring system that provides network failure self-detection and visualization for network device management in NTT core network by Fujitsu Network Solutions.
+        Participated as a backend engineer in the Japanese government’s household registration digitization project and Toyota Group's smart city TRI-AD (now Woven Planet) development project.
+        - Participated in the Japanese government household registration digitization project led by Fujifilm, developing five Windows applications to assist the household registration department in addressing issues in the digitalization of the household registration system.
+          By introducing OCR (Optical Character Recognition) technology, the project converted scanned image-format household registration documents into structured data, improving processing efficiency from the previous 10 years of manual operations to just a few hours. The production environment involved Japanese citizens' household registration data and strictly adhered to Japan's Personal Information Protection Law to ensure the security and compliance of sensitive citizen data.
+        - Responsible for the backend development of the smart logistics delivery system for Toyota Group’s smart city (Woven City), designing and implementing the core system based on microservices architecture to support the collaborative operation of over 3,000 delivery robots.
       description: | 
         abbr:
         - TRI-AD: Toyota Research Institute - Advanced Development.
         - Woven City: A future city that provides the latest mobility solutions with over 3000 residents built by the Toyota group.
         - OCR: Optical Character Recognition
-        - NTT: Nippon Telegraph and Telephone
 
     - role: Test Engineer (QC Manager)
       time: 2018.06 - 2019.08
@@ -159,12 +158,6 @@ experiences:
       company: Lino-a Co., Ltd, Kyoto
       details: |
         Developed a multi-languages travel information system by WordPress for the inbound traveler.
-
-    - role: Video Editor
-      time: 2008.04 - 2009.09
-      company: Yuanmuyingshi Studio Co., Ltd, Zhuhai
-      details: |
-        Responsible for television program and video advertising editing.
 
       goToProject: Click here to the project detail page.
 
