@@ -12,11 +12,11 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: chankeinjp@yahoo.co.jp
-    # phonecn: 136 7609 1404
-    phonejp: 080 9556 9252
-    website: chankein.github.io/Kein-cv/ #do not add http://
-    weixin: KEINCHAN85
+    email: keinchan615@gmail.com
+    phonecn: +853 6521 7615
+    phonejp: +81 80 9556 9252
+    website: keinchan.com/ #do not add http://
+    weixin: KEINCHAN615
     line: chankein
     # linkedin: alandoe
     # xing: alandoe
@@ -24,16 +24,16 @@ sidebar:
     # telegram: # add your nickname without '@' sign
     gitlab:
     # http://localhost:4000/assets/resume_cn.pdf
-    # https://chankein.github.io/Kein-cv/assets/resume_cn.pdf
-    resume: https://chankein.github.io/Kein-cv/assets/resume_cn.pdf
+    # https://keinchan.com/resume/assets/resume_cn.pdf
+    resume: https://keinchan.com/resume/assets/resume_cn.pdf
     # bitbucket:
     # twitter: '@webjeda'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://chankein.github.io/Kein-cv/assets/Resume_KeinChan(ChenQiying)_EN.pdf
-    excel: https://chankein.github.io/Kein-cv/assets/履歴書202312.xls
-    word: https://chankein.github.io/Kein-cv/assets/Resume_KeinChan(ChenQiying)_EN.docx
+    pdf: https://keinchan.com/resume/assets/Resume_KeinChan(ChenQiying)_EN.pdf
+    excel: https://keinchan.com/resume/assets/履歴書202312.xls
+    word: https://keinchan.com/resume/assets/Resume_KeinChan(ChenQiying)_EN.docx
 
     languages:
       - idiom: Cantonese
@@ -83,7 +83,7 @@ brief:
       Provide solutions for the Japanese Government, Toyota, Rakuten Pay, SoftBank, Fuji Film(Xerox), nanamusic, and Fujitsu Network Solutions.<br/>
       <br/>
     changelanguage: 轉中文
-    changelanguageurl: https://chankein.github.io/Kein-cv-zh/ 
+    changelanguageurl: https://keinchan.com/resume-zh/ 
 
 career-profile:
     title: Career Profile
@@ -236,7 +236,7 @@ expertise:
 
 projects:
     changelanguage: 轉中文
-    changelanguageurl: https://chankein.github.io/Kein-cv-zh/project.html 
+    changelanguageurl: https://keinchan.com/resume-zh/project.html 
     backToTOp: Click here to Resume Page
     title: Projects
     intro: |
@@ -494,4 +494,4 @@ skills:
     UIDesign:
           - name: Photoshop,Figma
 footer: >
-    Designed by Chan Kein
+    Designed by Kein Chan
