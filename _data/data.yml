@@ -120,9 +120,9 @@ experiences:
       time: 2019.09 - 2022.10
       company: Outsourcing Technology(TSE Code:2427), Tokyo 
       details: |
-        Participated as a backend engineer in the Japanese government’s household registration digitization project and Toyota Group's smart city TRI-AD (now Woven Planet) development project.
-        - Participated in the Japanese government household registration digitization project led by Fujifilm, developing five Windows applications to assist the household registration department in addressing issues in the digitalization of the household registration system.
-          By introducing OCR (Optical Character Recognition) technology, the project converted scanned image-format household registration documents into structured data, improving processing efficiency from the previous 10 years of manual operations to just a few hours. The production environment involved Japanese citizens' household registration data and strictly adhered to Japan's Personal Information Protection Law to ensure the security and compliance of sensitive citizen data.
+        Participated as a backend engineer in the Japanese government’s family registry digitization project and Toyota Group's smart city TRI-AD (now Woven Planet) development project.
+        - Participated in the Japanese government family registry digitization project led by Fujifilm, developing five Windows applications to assist the family registry department in addressing issues in the digitalization of the family registry system.
+          By introducing OCR (Optical Character Recognition) technology, the project converted scanned image-format family registry documents into structured data, improving processing efficiency from the previous 10 years of manual operations to just a few hours. The production environment involved Japanese citizens' family registry data and strictly adhered to Japan's Personal Information Protection Law to ensure the security and compliance of sensitive citizen data.
         - Responsible for the backend development of the smart logistics delivery system for Toyota Group’s smart city (Woven City), designing and implementing the core system based on microservices architecture to support the collaborative operation of over 3,000 delivery robots.
       description: | 
         abbr:
@@ -130,38 +130,30 @@ experiences:
         - Woven City: A future city that provides the latest mobility solutions with over 3000 residents built by the Toyota group.
         - OCR: Optical Character Recognition
 
-    - role: Test Engineer (QC Manager)
+    - role: Test Development Engineer
       time: 2018.06 - 2019.08
-      company: Oriental Kingdom Group Co., Ltd, Tokyo
+      company: Oriental Kingdom Group, Tokyo
       details: |
-          - Responsible for quality control and bug reports of robot control software inside humanoid robot Pepper and central control server system.
-    
+        - Responsible for testing the Pepper humanoid robot for corporate applications under SoftBank, leading the test plan design and execution for the Pepper management system. Worked closely with the technical team from the French subsidiary Aldebaran Robotics to coordinate multinational testing processes and track issues, ensuring the stability and functionality of the robot applications meet enterprise-level standards.
+      description: |
+
     - role: Big Data Engineer
       time: 2015.10 - 2018.05
-      company: Lamabang Technology Co., Ltd, Shenzhen
+      company: Lama Bang Technology Co., Ltd., Shenzhen
       details: |
-        Provided data warehouse infrastructure solutions to cope with the increasing data process needs along with fast user-growth of APP from 300,000 to 3,400,000(DAU).<br/>
-        Furnish insights, analytics, and business intelligence needed to facility management's decision-making.<br/>
-        Monitored and diagnosed for data fluctuation exception.
-          - Developed an ETL data pipeline using SQL, Shell scripts, Python scripts, scala scripts from various sources that process daily data over 50 TB.
-          - Designed data warehouse models in accordance with spec requirements for APP statistic report of 3.4 millions DAU.
-          - Transformed business propositions into quantitative queries and then collected/cleaned necessary data. Created over 200 quantitative reports each year at the request of the Market Operation Department, Advertising Department, and the BI Department.
-          - Developed an API server to provide data support for server-side development teams.
-          - Developed an OSS system under database team with over 12 sections of data visualization web pages for routine data analyzing.
-          - Introduced machine-learning technology to help business decision-making.
-      description: | 
-        abbr:
-        - DAU: Daily Active Units
-        - ETL: Extract-Transform-Load
-        - BI : Business Intelligence
+        Lama Bang app is one of China’s largest maternity and baby social media platforms. In addition to the Lama Bang app, the company also operates apps like Pregnancy Companion, Lama Bang Mall, and Lama Bang U-Select. As a fast-growing unicorn company, Lama Bang faced the challenge of rapidly increasing data volume and how to leverage this data effectively.
+        - **Database Architecture Upgrade**: Participated in the design and implementation of a new-generation data warehouse system to support the data analysis needs of the company’s products. Successfully addressed the data volume surge challenge brought by the increase in daily active users from 300,000 to 3.4 million, significantly improving data processing and storage efficiency.
+        - **Business Intelligence System Development**: Developed an enterprise-grade OSS data platform that automated the calculation and visualization of daily statistical indicators. Over 2,000 data reports were generated annually, providing real-time data support to departments like operations, product, and advertising.
+        - **Data-Driven Decision-Making System**: Built a user profiling system and A/B testing framework to support product iteration and user growth strategies, fostering the development of a data-driven culture within the company.
+      description: |
 
     - role: System Engineer
       time: 2014.04 - 2015.09
-      company: Lino-a Co., Ltd, Kyoto
+      company: Lino-A Co, Kyoto
       details: |
-        Developed a multi-languages travel information system by WordPress for the inbound traveler.
+        Developed a multilingual, multi-device compatible tourism information system platform using WordPress for visitors. Provided services to the Shimoda City Tourism Association and the Hikone City Tourism Association.
 
-      goToProject: Click here to the project detail page.
+      goToProject: Click here to go to the project details page.
 
 education:
     - degree: Master Degree(MEc)
@@ -184,58 +176,51 @@ education:
 expertise:
     title: Areas of Expertise
     intro: >
-      As a full-stack engineer, my core technology stack revolves around server-side development and big data applications. Additionally, I possess the capability to independently develop websites, smartphone applications, and desktop programs.
-      <br/>
-      In terms of programming languages, I am proficient in various languages such as Python, Java, R, SwiftUI, and C#. This versatility allows me to efficiently choose the most suitable language for project development based on specific requirements.
-      <br/>
-      Regarding server-side development, I am not only skilled in using frameworks like Django, Spring Boot, and Flask but also have experience in server automation management using Ansible on AWS/Azure cloud services and local servers. I can flexibly select and utilize AWS cloud services according to project needs.
-      <br/>
-      Furthermore, I have the ability to independently conduct WPF and SwiftUI development on Windows and iOS platforms. I have provided design, development, and testing services for AI/automation projects to notable clients such as the Japanese government, Toyota, and SoftBank Robotics. My work has not only improved project efficiency but also significantly optimized customer experiences.
-      <br/>
-      As a big data engineer, I am familiar with mainstream database systems like MySQL and OracleDB, as well as distributed data warehouse design in the Hadoop ecosystem with practical experience in DataBricks. I excel in point design, management, and data visualization. I have contributed as a member of the data team in developing an OSS data middle platform system, providing data visualization support for various departments, and proficiently using data visualization tools such as Power BI.
-      <br/>
-      In the realm of data applications, I bring rich experience, including data mining, user profile establishment, and intelligent recommendation system development. I have provided data support for user analysis, advertising placement, user retention strategies, and more for the company's operational app, effectively enhancing user engagement and business outcomes.
-
+      This section primarily showcases the technology stack I master. To learn more technical details, please visit my tech blog: <a href="https://keinchan.com/">https://keinchan.com/</a>
     assignments:
-      - title: Data Warehouse Design and Configuration
+      - title: Team Leadership and SDLC (Waterfall/Agile)
         link: "#"
-        tagline: "Rich knowledge of databases, capable of abstracting business data into data structures and independently configuring data warehouses."
+        tagline: "Experienced in managing technical teams of 5-15 people, successfully leading enterprise-level projects such as Rakuten Pay and LY Group. Proficient in implementing Agile development (Scrum) and Waterfall models, able to flexibly choose development methodologies based on project characteristics. Skilled in establishing standardized development processes, using tools like Jira to track requirements and manage performance."
 
-      - title: Data Architecture Design
+      - title: Programming Languages and Server Frameworks
         link: "#"
-        tagline: "Design Data architecture for business requirement needs"
+        tagline: "Proficient in various programming languages and development frameworks, such as Python, Java, C#, SwiftUI, etc., capable of selecting an efficient technology stack based on project needs and conducting efficient development. Expert in frameworks like Django, Spring Boot, Flask, with extensive cloud platform deployment and system service management experience, able to provide stable technical support for large-scale distributed systems."
 
-      - title: Data Visualzation
+      - title: Multi-Platform App Development
         link: "#"
-        tagline: "Quick data visualizing by Power BI, also have experince on developing data visualizing platform for customized requirements."
+        tagline: "Capable of independently designing UIs and developing iOS apps using SwiftUI and C#/WPF frameworks."
+
+      - title: Cloud Platforms and Automation Management
+        link: "#"
+        tagline: "Proficient in using cloud platforms like AWS, GCP, and automation tools like Ansible for operations management. Successfully reduced operational costs for multiple projects by introducing IaC while improving the stability and traceability of service infrastructures."
+
+      - title: Software Testing and CI/CD
+        link: "#"
+        tagline: "Experienced in independently designing test items and executing software tests, providing quality control support for development projects. Achieved continuous delivery and integration through tools like Travis CI and GitHub Actions."
+
+      - title: Data Processing and Optimization
+        link: "#"
+        tagline: "Solid database management and big data processing skills, familiar with mainstream databases such as MySQL, OracleDB, and the Hadoop ecosystem, able to optimize distributed data warehouses and ETL processes, improving data processing efficiency."
+
+      - title: Data Analysis and Data Visualization
+        link: "#"
+        tagline: "Proficient in Power BI for quick visualization page creation and capable of developing customized data visualization pages using development frameworks."
 
       - title: Data Mining
         link: "#"
-        tagline: "Furnish insights, analytics, and business intelligence needed to assist management's decision-making"
+        tagline: "Applying data mining techniques to provide data support for user analysis, data-driven development, and business decisions."
 
-      - title: Windows Apps Developing
+      - title: Algorithm Knowledge
         link: "#"
-        tagline: "Develop windows Apps by C# & WPF framework"
+        tagline: "Continuously refining programming algorithms, once reduced the computation time from 700 days to under 10 minutes by refactoring code."
 
-      - title: Software Quality Control
+      - title: Problem Identification and Solution
         link: "#"
-        tagline: "Design & Conduct Test Case for Software Quality Control"
+        tagline: "Extensive experience in bug investigation, management follow-up, and system resource optimization."
 
-      - title: Programming Languages
+      - title: Natural Languages
         link: "#"
-        tagline: "Rich experience in Python, Java, and C#"
-
-      - title: Highly Effective Algorithm
-        link: "#"
-        tagline: "Always looking for improvement for higher effective algorithm"
-
-      - title: Nature Languages
-        link: "#"
-        tagline: "Being able to work in multiple languages - Chinese, Japanese, and English"
-
-      - title: Problem Shooting
-        link: "#"
-        tagline: "Diagnose failure issues and system bottleneck resources, then provide solution advice for better system performance"
+        tagline: "In addition to native Mandarin and Cantonese, proficient in Japanese and English, capable of meeting daily work and technical research needs."
 
 projects:
     changelanguage: 轉中文
@@ -243,104 +228,125 @@ projects:
     backToTOp: Click here to Resume Page
     title: Projects
     intro: |
-      My project experience primarily focuses on roles as a server-side engineer and in AI, as well as big data-related projects.
+      One of the most common challenges in IT project management and cross-departmental/company coordination is management inefficiencies caused by inaccurate technical and requirement estimations.
       <br/>
-      In various projects, I have participated in the entire system lifecycle, from architecture design, development, testing to vulnerability patching, assuming the roles of a big data engineer, server-side engineer, and test engineer.
+      To address this, I have deliberately taken on diverse roles to broaden my expertise and minimize technical blind spots. Additionally, as a team member, I leverage my development experience to fill technical gaps and ensure project success.
       <br/>
-      When faced with a new project, I possess a multi-faceted perspective and am always ready to tackle various new challenges.
+      *Click project titles to view related webpages.
 
     project:
-      - title: Rakuten Pay
-        link: "https://payment.rakuten.co.jp/"
-        role: "Team Leader(Back-End)"
-        description: Rakuten Pay is a leading electronic payment software in Japan, and my team is responsible for the development tasks related to the server-side.
-        KeyAchievements: |
-          1. Manage project progress, assign tasks to team members, and follow up on issue resolutions through Jira.
-          1. Oversee the Code Review for the team to ensure code quality.
-          1. Review API design documents, testing perspectives (UT, IT, PT), and testing reports produced by team members.
-          1. Take charge of developing new features for Rakuten Pay and tasks related to integration with the app.
+    - title: LY Group Data Warehouse Migration
+      link: "https://www.lycorp.co.jp/ja/company/"
+      role: "Technical Lead & Project Manager"
+      description: |
+                  Line Yahoo (LY Group), Japan's largest internet company with flagship products including Line (covering 71% population) and PayPay (66% market share), initiated this strategic migration from on-premise Teradata to AWS Redshift to handle data growth and reduce operational costs.
+      KeyAchievements: |
+                  1. Cross-division coordination: Orchestrated resources across business units, completing architecture assessment and migration scheduling
+                  1. Technical research: Conducted comprehensive analysis of Teradata-Redshift differences, establishing phased migration strategy
+                  1. Resource evaluation: Assessed hardware, manpower and timeline requirements for optimal resource allocation
+                  1. Standardization: Developed SOP through pilot migration and iterative refinement
+                  1. Data consistency: Designed validation standards and automated verification framework with continuous optimization
+                  1. Progress monitoring: Real-time tracking and issue resolution throughout migration execution
 
-      - title: Nanamusic Music App
-        link: "https://nana-music.com/"
-        role: "Server-Side Engineer"
-        Description: Nanamusic is a widely popular music creation app among Japanese music enthusiasts. As a server-side engineer on the team, I was responsible for the development and partial maintenance of the server-side.
-        KeyAchievements: |
-          1. Server-Side API Development and Maintenance: Managed the development and modification of server-side APIs, including UI/UT testing, ensuring application version updates while maintaining system stability and security.
-          1. CI/CD Process Optimization: Streamlined CI/CD tool processes, reducing the execution time of over 3600 server-side UI tests from 4 hours to 1 hour, significantly boosting development efficiency.
-          1. Cloud Service Management: Handled the IaC (Infrastructure as Code) development and management for cloud service platforms like AWS, reducing manual operation errors and enhancing system reliability.
-          1. Server Monitoring and Emergency Response: Monitored server resources, responded promptly to server failures, performed version rollbacks when necessary, and combated malicious attacks, such as IP blocking.
-          1. Operations Management Platform Development: Developed and improved the operations management platform, enhancing the operational team's efficiency in handling copyright infringements and timely updating of music data.
+    - title: Rakuten Pay
+      link: "https://payment.rakuten.co.jp/"
+      role: "Server-side Tech Lead"
+      description: As technical lead for Japan's top-tier payment platform, managed server-side feature iterations and maintenance.
+      KeyAchievements: |
+                  1. Organized integration meetings with external systems (credit cards/banks), ensuring seamless feature integration
+                  2. Implemented Agile project management via Jira, improving task allocation and issue tracking
+                  3. Established code review protocols to enhance code quality and maintainability
+                  4. Reviewed API documentation and test cases (UT/IT/PT)
+                  5. Developed new payment modules and coordinated server-mobile integrations
 
-      - title: National Population Flow Analysis
-        link: "https://www.softbank.jp/biz/services/analytics/ugoki/"
-        role: "Big Data Engineer"
-        description: The National Population Flow Analysis is a project implemented by Softbank, one of Japan's three major telecom operators. Utilizing data from Softbank's mobile phone base stations combined with terminal device location information, it generates population flow data. This data includes not only the distribution of people at different times and places but also their movement paths and modes of transportation, which are used for analyzing and predicting the movement dynamics of Japan's 120 million population.
-        KeyAchievements: |
-          1. Responsible for selecting and migrating from a local data warehouse to a cloud platform, ultimately choosing Databricks as the migration target. Ensured a smooth transition of existing systems and scripts through technical verification.
-          1. Handled the detection and tracking of abnormal data, providing data visualization tools on maps for pinpointing and analyzing data anomalies.
+    - title: Softbank Population Mobility System
+      link: "https://www.softbank.jp/biz/services/analytics/ugoki/"
+      role: "Big Data Engineer (Tech Lead)"
+      description: This telecom analytics project processed mobile base station and GPS data to track and predict mobility patterns across Japan's 120M population, including location distribution and transportation modes.
+      KeyAchievements: |
+                  1. Led cloud platform selection (Databricks), ensuring smooth migration of legacy systems
+                  2. Developed anomaly detection and visualization tools for spatial data analysis
+                  3. Implemented data isolation and anonymization to meet strict compliance requirements
 
-      - title: Japan Travel Itinerary Auto-Generation App
-        link: ""
-        role: "Full Stack Engineer"
-        description: The Japan Travel Itinerary Auto-Generation App is a travel itinerary generation app that I developed independently. Users input their departure and destination points and select desired attractions, and the app generates a feasible travel route and schedule.
-        KeyAchievements: |
-          1. Drafted project plans, analyzing and organizing user requirements and technical implementation strategies.
-          1. Employed Figma for UI design.
-          1. Managed the project on GitHub Broad, including project progress control and issue management, achieving agile development.
-          1. Skillfully utilized SwiftUI, integrating modules like CloudKit and MapKit, devised the itinerary planning algorithm, and completed iOS program development.
+    - title: Japan Travel Itinerary Generator App
+      link: ""
+      role: "Full-stack Engineer"
+      description: Independently developed an intelligent travel planning app generating personalized itineraries with navigation, transit routes and schedules based on user inputs.
+      KeyAchievements: |
+                  1. Full-cycle development from market research to launch
+                  2. Designed intuitive UI/UX using Figma
+                  3. Built iOS client with SwiftUI, integrating CloudKit and MapKit
+                  4. Developed proprietary multi-destination routing algorithm
+                  5. Created cross-platform admin system with React Native
+                  6. Implemented CI/CD pipeline with cloud infrastructure
 
-      - title: The Computerization Project for Family Register in Japan (Fuji Film)
-        link: "https://www.fujifilm.com/fbss/solution/public/"
-        role: "System Engineer"
-        description: The project is to detect mismatch data in the Certificate of Family Register in Japan by deploying OCR technology,
-                    and to correct data errors by autoprocessing.</br>
-        KeyAchievements: |
-                    1. Co-decided data processing for each task.
-                    1. Designed and built databases for each App.
-                    1. Created and maintained structured document definition in OCR process for scaned data.
-                    1. Created batches to enhence the precision of Optical Character Recognition.
-                    1. Designed UI/UX and created windows Apps when human involvement is required.
-                    1. Lead failure investigations, conduct necessary analysis and perform correction for OCR module failures.
+    - title: Azas Construction Safety App
+      link: "https://sales.azas-token.com/"
+      role: "Technical Consultant & PM"
+      description: A digital platform enabling construction workers to report safety issues via mobile app, incorporating real-time rewards to enhance safety culture (Agile development).
+      KeyAchievements: |
+                  1. Conducted technical feasibility studies and architectural design
+                  2. Managed cross-departmental coordination and issue resolution
+                  3. Solved React Native compatibility issues across iOS/Android versions
 
-      - title: Toyota Smart Logistics System in Woven-City (Woven Planet)
-        link: "https://www.woven-city.global/"
-        role: "Server-Side Engineer"
-        description: Woven-city is a future smart city prototype developed by Toyota.</br>
-                    Toyota Smart Logistics System is one of the major functions in woven-city that provides door to door delivery service conducted by robots.</br>
-        KeyAchievements: |
-                    1. Abstract function model to entities model, designed system architecture base on microstructure architecture method.
-                    1. Designed data flow, database tables, inter-faces definitions and created relative specification documents.
-                    1. Created development/test/product environment individually base on container techonology via creating consistent and isolated docker-compose environments.
-                    1. Developed Microstructure Services including restful-api, mqtt, rabbitmq sender/receiver entities under Spring Boots framework.
-                    1. Designed and conducted test cases for unit test, integration test and functional test for quality control.
-                    1. Created mock data and developed stub entities in Python to develop internal interface and external system interface for testing purpose.
+    - title: Nanamusic
+      link: "https://nana-music.com/"
+      role: "Server-side Engineer"
+      description: As core developer for this popular Japanese music creation app, handled architecture design and DevOps using Agile methodology.
+      KeyAchievements: |
+                  1. Developed RESTful APIs with UT/UI testing frameworks
+                  2. Optimized CI/CD pipeline, reducing 3,600+ UI tests from 4hr to 1hr
+                  3. Implemented Terraform-based IaC on AWS, reducing human errors
+                  4. Established monitoring system with rollback capabilities
+                  5. Built copyright management backend improving takedown efficiency
 
-      - title: To Business Solution Project (Softbank Robotics)
-        link: "https://www.softbankrobotics.com/emea/en/pepper/"
-        role: "Test Engineer"
-        description: I was responsible for Quality Control in Apps development and the server-side management system for pepper.</br>
-        KeyAchievements: |
-                    1. Designed test cases for unit test, integration test, and functional test for pepper apps and server-side management system.
-                    1. Conducted UAT (User Acceptance Test) for apps install in pepper OS. Ensured the products meet quality and reliability requirements before they were released to consumers.
-                    1. Introduced selenium framework to conduct UX/UI automatic tests for the robot management system.
-                    1. Collected and analyzed logs uploaded from pepper system in AWS cloud server.
-                    1. Reproduced reported bugs and collected evidence to create bug reports to bug fix team.
-                    1. Traced bugs fix status by Redmine.
-                    
-      - title: Data Team in Lamabang Corp
-        link: "http://www.lamabang.com/article/detail/m-about.html/"
-        role: "Big-Data Engineer"
-        description: Lamabang is one of the biggest mobile social network for women in China. Besides the Lamabang app, Lamabang Crop runs 4 more related smartphone apps.</br>
-                    As a unicron company in China, the company face a challenge of explosive growth in data.
-                    The data team also provides data support for the cross-function team.
-        KeyAchievements: |
-                    1. Designed, defined, tested, and managed over 3400 data buried points for user behavior tracking and aggregate purpose.
-                    1. Programmed and implemented ETL processes and applications in SQL, shell scripts, Python scripts, and Scala scripts.
-                    1. Designed and deployed databases architecture and systems infrastructure for corporate IT systems.
-                    1. Built and maintained OSS system under database team for data visualization and Operation Support to help Product Manager Team.
-                    1. Developed automotive modules to monitor abnormal access, detect abnormal user behavior and send alarms by WeChat/E-mail to Operation And Maintenance Team in real-time.
-                    1. Paticipated in A/B experiments with the BI team to deploy new strategies online.  
-                    1. Introduced machine-learning technology to help create user profile and analyze user behavior modeling result in a 3.67% increase in 7 days User Retention Rate.
+    - title: Japanese Family Registry Digitization (Fujifilm)
+      link: "https://www.fujifilm.com/fbss/solution/public/"
+      role: "Systems Engineer"
+      description: Developed automation solutions for Japan's national registry digitization, implementing OCR and error detection to handle massive data correction workloads.
+      KeyAchievements: |
+                  1. Translated business requirements into technical solutions
+                  2. Managed 120+ database tables across applications
+                  3. Designed document structuring system improving OCR accuracy from 65% to 85%
+                  4. Created human review interfaces for hybrid processing
+                  5. Coordinated SDK-level support with ABBYY for Japanese character recognition
+                  6. Enforced strict data compliance policies
+
+    - title: Toyota Smart Logistics (Woven City)
+      link: "https://www.woven-city.global/"
+      role: "Server-side Engineer"
+      description: Developed microservices for the autonomous robot logistics network in Toyota's future smart city (2,000 residents), following Agile methodology.
+      KeyAchievements: |
+                  1. Designed scalable microservice architecture
+                  2. Defined data schemas and API specifications
+                  3. Implemented containerization with docker-compose
+                  4. Built REST/MQTT/RabbitMQ microservices with Spring Boot
+                  5. Developed Flask mock services for parallel testing
+
+    - title: Softbank Pepper Robot Project
+      link: "https://www.softbankrobotics.com/emea/en/pepper/"
+      role: "Test Engineer"
+      description: Conducted system testing for Pepper humanoid robot's management system and enterprise applications.
+      KeyAchievements: |
+                  1. Designed full-cycle test plans (UT/IT/functional)
+                  2. Led UAT ensuring release readiness
+                  3. Automated testing (Selenium) reducing effort by 87.5%
+                  4. Built AWS-based log analysis system
+                  5. Served as technical liaison with Aldebaran Robotics
+                  6. Managed 200+ defects via Redmine
+
+    - title: Lamabang Business Intelligence
+      link: "http://www.lamabang.com/article/detail/m-about.html/"
+      role: "Big Data Engineer"
+      description: Built data infrastructure for China's leading maternal social platform (3.4M DAU) to enable data-driven decisions.
+      KeyAchievements: |
+                  1. Implemented 3,400+ tracking points across platforms
+                  2. Developed ETL pipelines with SQL/Shell/Python/Scala
+                  3. Designed Hadoop warehouse supporting 300K→3.4M DAU growth
+                  4. Created real-time visualization dashboards
+                  5. Reduced anomaly response time by 80% via automated alerts
+                  6. Established ML-based user profiling (7.67% retention lift)
+                  7. Designed A/B testing framework for product iteration
 
 skills-details:
     title: Technical Skills
@@ -362,8 +368,6 @@ skills-details:
           
           - name: C#
             level: 75%
-
-
     database:
           - name: Mysql
             level: 90%
@@ -374,14 +378,23 @@ skills-details:
           - name: OracleDB
             level: 90%
 
+          - name: Teradata
+            level: 85%
+
           - name: Hadoop
-            level: 75%
+            level: 85%
 
     dataVisualization:
+          - name: Microstrategy
+            level: 90%
+
           - name: Power BI
             level: 90%
 
           - name: Excel
+            level: 90%
+
+          - name: StreamLit
             level: 90%
 
     versionControl:
@@ -419,10 +432,13 @@ skills-details:
             level: 75%
 
     framework:
+          - name: Django
+            level: 75%
+
           - name: Flask
             level: 75%
 
-          - name: Django
+          - name: FastApi
             level: 75%
 
           - name: Spring Boot
@@ -457,13 +473,13 @@ skills-details:
 skills:
     title: Technical Skills
     programming:
-          - name: Python,Java,Scala,Swift,C#
+          - name: Python,Java,Scala,Swift,C#,R
 
     database:
-          - name: Mysql,PostgreSQL,OracleDB
+          - name: Mysql,PostgreSQL,OracleDB,<br/>Redshift,Teradata
 
     dataVisualization:
-          - name: PowerBI,Excel
+          - name: Microstrategy,PowerBI,Excel
 
     versionControl:
           - name: Github,Git
@@ -478,7 +494,7 @@ skills:
           - name: Docker,Vagrant,Ansible
 
     framework:
-          - name: Spring Boot,Flask,Django,SwiftUI,WPF
+          - name: Spring Boot,Django,Flask,FastApi,SwiftUI,WPF
 
     testTools:
           - name: Pytest,Junit,Selenium,Postman
