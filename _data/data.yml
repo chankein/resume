@@ -94,12 +94,11 @@ career-profile:
 
       **Core Competencies**
       - **Technical Breadth**: End-to-end development experience from requirements analysis, system design, technology selection to architecture, testing, deployment, CI/CD and operations. Expertise spans server-side development, data warehouse design/optimization, on-premise/cloud infrastructure, and agile/waterfall project management.
-      - **Business Collaboration**: Served as key liaison between business and technical teams, optimizing requirements documentation processes (see project details page):
+      - **Business Collaboration**: Served as key liaison between business and technical teams, optimizing requirements documentation processes (see project details page:<a href="https://keinchan.com/resume/project.html">https://keinchan.com/resume/project.html</a>):
         - **Cross-departmental Coordination**: Lamabang BI Group, Toyota Woven City Project
         - **Inter-company Coordination**: Softbank Robotics Enterprise Development, Rakuten Group internal bank/credit card collaborations, Line Yahoo data warehouse migration
         - **Vendor Management**: Japanese family registry digitization project (coordination with Russian OCR SDK supplier)
       <br/>
-      For detailed project experience, please visit:<a href="https://keinchan.com/resume/project.html">https://keinchan.com/resume/project.html</a>
     changelanguage: 轉中文
     changelanguageurl: https://keinchan.com/resume-zh/ 
 
@@ -188,7 +187,7 @@ expertise:
 
       - title: Multi-Platform App Development
         link: "#"
-        tagline: "Capable of independently designing UIs and developing iOS apps using SwiftUI and C#/WPF frameworks."
+        tagline: "Capable of independently designing UIs and developing iOS/Windows apps using SwiftUI and C#/WPF frameworks."
 
       - title: Cloud Platforms and Automation Management
         link: "#"
@@ -220,7 +219,7 @@ expertise:
 
       - title: Natural Languages
         link: "#"
-        tagline: "In addition to native Mandarin and Cantonese, proficient in Japanese and English, capable of meeting daily work and technical research needs."
+        tagline: "In addition to native Cantonese and Mandarin, proficient in Japanese and English, capable of meeting daily work and technical research needs."
 
 projects:
     changelanguage: 轉中文
@@ -309,7 +308,7 @@ projects:
                   2. Managed 120+ database tables across applications
                   3. Designed document structuring system improving OCR accuracy from 65% to 85%
                   4. Created human review interfaces for hybrid processing
-                  5. Coordinated SDK-level support with ABBYY for Japanese character recognition
+                  5. Coordinated SDK-level support with a Russian OCR SDK supplier for Japanese character recognition, ensuring smooth cross-border collaboration.
                   6. Enforced strict data compliance policies
 
     - title: Toyota Smart Logistics (Woven City)
@@ -333,7 +332,7 @@ projects:
                   3. Automated testing (Selenium) reducing effort by 87.5%
                   4. Built AWS-based log analysis system
                   5. Served as technical liaison with Aldebaran Robotics
-                  6. Managed 200+ defects via Redmine
+                  6. Managed 200+ issues via Redmine
 
     - title: Lamabang Business Intelligence
       link: "http://www.lamabang.com/article/detail/m-about.html/"
