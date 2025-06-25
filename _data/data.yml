@@ -97,7 +97,7 @@ career-profile:
       - **Business Collaboration**: Served as key liaison between business and technical teams, optimizing requirements documentation processes (see project details page:<a href="https://keinchan.com/resume/project.html">https://keinchan.com/resume/project.html</a>):
         - **Cross-departmental Coordination**: Lamabang BI Group, Toyota Woven City Project
         - **Inter-company Coordination**: Softbank Robotics Enterprise Development, Rakuten Group internal bank/credit card collaborations, Line Yahoo data warehouse migration
-        - **Vendor Management**: Japanese family registry digitization project (coordination with Russian OCR SDK supplier)
+        - **Vendor Management**: Japanese Government’s Family Registry Digitization project (coordination with Russian OCR SDK supplier)
       <br/>
     changelanguage: 轉中文
     changelanguageurl: https://keinchan.com/resume-zh/ 
@@ -110,7 +110,7 @@ experiences:
       details: |
         - **LY Group Data Warehouse Migration**: As the technical lead and project manager, I led the migration of the enterprise-level data platform for Japan's Line Yahoo Group, including completing the full technical solution validation for the migration from the Teradata on-premise data center to AWS Redshift; responsible for migration resource evaluation and project schedule control to ensure timely delivery; developed standardized migration processes and data validation mechanisms to ensure data consistency; coordinated technical alignment and resource allocation within internal business units of the group.
         - **Rakuten Pay (Instant Payment) Project**: Rakuten Pay is Japan's second-largest digital payment application. Led the backend technical team to develop and update the functionality of the credit card and digital payment/recharge features. Led communication meetings with stakeholders to determine interface standards for system integration and ensured the seamless integration of new features with the existing payment system.
-        - **Japan People Flow Statistics System**: An internal project for SoftBank, one of Japan's three major telecom companies. By obtaining signal base station and GPS location data, the project continuously manages the mobile phone location data, forming a data warehouse that covers approximately one-third of Japan's population. Responsible for the verification and investigation of the underlying framework and some visualization tasks. The project involves a large amount of personal information, so strict compliance with personal privacy protection requirements is essential.
+        - **Japanese National Mobility Tracking System**: An internal project for SoftBank, one of Japan's three major telecom companies. By obtaining signal base station and GPS location data, the project continuously manages the mobile phone location data, forming a data warehouse that covers approximately one-third of Japan's population. Responsible for the verification and investigation of the underlying framework and some visualization tasks. The project involves a large amount of personal information, so strict compliance with personal privacy protection requirements is essential.
         - **Japan Travel Itinerary Auto-Generation App (Personal Development Project)**: The app automatically plans travel itineraries based on user-input start and end points, modes of transportation, and travel destination information. The project includes: requirement analysis and system architecture planning, UI design, app development, backend development, admin panel development, and web scraping for data collection.
         - **Azas Project**: Azas is a digital safety management platform for construction sites that allows workers to independently report daily safety hazards and record safety behaviors through a smartphone app, optimizing the safety of the construction environment. Responsible for implementing core modules and ensuring system compatibility.
         - **Japan Music Creation App - Nanamusic Project**: Responsible for backend management development and system maintenance, promptly addressing system failures caused by version updates, malicious attacks, etc.
@@ -120,7 +120,7 @@ experiences:
       company: Outsourcing Technology(TSE Code:2427), Tokyo 
       details: |
         Participated as a backend engineer in the Japanese government’s family registry digitization project and Toyota Group's smart city TRI-AD (now Woven Planet) development project.
-        - Participated in the Japanese government family registry digitization project led by Fujifilm, developing five Windows applications to assist the family registry department in addressing issues in the digitalization of the family registry system.
+        - Participated in the Japanese government’s family registry digitization project led by Fujifilm, developing five Windows applications to assist the family registry department in addressing issues in the digitalization of the family registry system.
           By introducing OCR (Optical Character Recognition) technology, the project converted scanned image-format family registry documents into structured data, improving processing efficiency from the previous 10 years of manual operations to just a few hours. The production environment involved Japanese citizens' family registry data and strictly adhered to Japan's Personal Information Protection Law to ensure the security and compliance of sensitive citizen data.
         - Responsible for the backend development of the smart logistics delivery system for Toyota Group’s smart city (Woven City), designing and implementing the core system based on microservices architecture to support the collaborative operation of over 3,000 delivery robots.
       description: | 
@@ -258,7 +258,7 @@ projects:
                   4. Reviewed API documentation and test cases (UT/IT/PT)
                   5. Developed new payment modules and coordinated server-mobile integrations
 
-    - title: Softbank Population Mobility System
+    - title: Japanese National Mobility Tracking System
       link: "https://www.softbank.jp/biz/services/analytics/ugoki/"
       role: "Big Data Engineer (Tech Lead)"
       description: This telecom analytics project processed mobile base station and GPS data to track and predict mobility patterns across Japan's 120M population, including location distribution and transportation modes.
@@ -299,7 +299,7 @@ projects:
                   4. Established monitoring system with rollback capabilities
                   5. Built copyright management backend improving takedown efficiency
 
-    - title: Japanese Family Registry Digitization (Fujifilm)
+    - title: Japanese Government’s Family Registry Digitization (Fujifilm)
       link: "https://www.fujifilm.com/fbss/solution/public/"
       role: "Systems Engineer"
       description: Developed automation solutions for Japan's national registry digitization, implementing OCR and error detection to handle massive data correction workloads.
@@ -475,7 +475,7 @@ skills:
           - name: Python,Java,Scala,Swift,C#,R
 
     database:
-          - name: Mysql,PostgreSQL,OracleDB,<br/>Redshift,Teradata
+          - name: Mysql,PostgreSQL,OracleDB,<br/>Redshift,Teradata,Hive,Spark,Hbase
 
     dataVisualization:
           - name: Microstrategy,PowerBI,Excel
