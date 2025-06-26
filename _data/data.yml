@@ -361,6 +361,24 @@ skills-details:
           
           - name: C#
             level: 75%
+ 
+    platform:
+          - name: Linux
+            level: 90%
+
+          - name: Windows
+            level: 75%
+
+          - name: MacOS
+            level: 60%
+ 
+    versionControl:
+          - name: Github
+            level: 90%
+
+          - name: Git
+            level: 75%
+
     database:
           - name: Mysql
             level: 90%
@@ -370,57 +388,6 @@ skills-details:
 
           - name: OracleDB
             level: 90%
-
-          - name: Teradata
-            level: 85%
-
-    dataWarehouse:
-          - name: Hadoop
-            level: 85%
-
-    dataVisualization:
-          - name: Microstrategy
-            level: 90%
-
-          - name: Power BI
-            level: 90%
-
-          - name: StreamLit
-            level: 90%
-
-    versionControl:
-          - name: Github
-            level: 90%
-
-          - name: Git
-            level: 75%
-
-    platform:
-          - name: Linux
-            level: 90%
-
-          - name: Windows
-            level: 75%
-
-          - name: MacOS
-            level: 50%
-
-    cloudComputing:
-          - name: AWS
-            level: 50%
-
-          - name: Google Cloud
-            level: 30%
-
-    containerTechnology:
-          - name: Docker
-            level: 90%
-
-          - name: Vagrant
-            level: 75%
-
-          - name: Ansible
-            level: 75%
 
     framework:
           - name: Django
@@ -457,6 +424,53 @@ skills-details:
           - name: Postman
             level: 75% 
 
+    containerTechnology:
+          - name: Docker
+            level: 90%
+
+          - name: Vagrant
+            level: 75%
+
+          - name: Ansible
+            level: 75%
+
+    cloudComputing:
+          - name: AWS
+            level: 50%
+
+          - name: Google Cloud
+            level: 30%
+
+    dataWarehouse:
+          - name: Teradata
+            level: 85%
+
+          - name: Redshift
+            level: 85%
+            
+    bigDataEcosystem:
+          - name: Hadoop
+            level: 85%
+
+          - name: Hive
+            level: 65%
+          
+          - name: HBase
+            level: 65%
+          
+          - name: Spark
+            level: 65%
+
+    dataVisualization:
+          - name: Microstrategy
+            level: 90%
+
+          - name: Power BI
+            level: 90%
+
+          - name: StreamLit
+            level: 90%
+
     UIDesign:
           - name: Photoshop
             level: 75%
@@ -478,14 +492,11 @@ skills:
     database:
           - name: Mysql,PostgreSQL,OracleDB
 
-    UIDesign:
-          - name: Photoshop,Figma
-
     framework(Backend):
           - name: Spring Boot,Django,Flask,FastApi
 
     framework(App):
-          - name: SwiftUI,WPF
+          - name: SwiftUI,WPF,React Native
   
     testTools:
           - name: Pytest,Junit,Selenium,Postman
@@ -506,7 +517,10 @@ skills:
           - name: Hadoop,Hive,HBase,Spark
 
     dataVisualization:
-          - name: Microstrategy,PowerBI,Excel
+          - name: Microstrategy,PowerBI,StreamLit
 
+    UIDesign:
+          - name: Photoshop,Figma
+  
 footer: >
     Designed by Kein Chan
