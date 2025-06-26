@@ -25,15 +25,15 @@ sidebar:
     gitlab:
     # http://localhost:4000/assets/resume_cn.pdf
     # https://keinchan.com/resume/assets/resume_cn.pdf
-    resume: https://keinchan.com/resume/assets/resume_cn.pdf
+    resume: https://keinchan.com/resume/assets/KeinChan_Resume_SeniorManager_202506.pdf
     # bitbucket:
     # twitter: '@webjeda'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://keinchan.com/resume/assets/Resume_KeinChan(ChenQiying)_EN.pdf
+    pdf: https://keinchan.com/resume/assets/KeinChan_Resume_SeniorManager_202506.pdf
     #excel: https://keinchan.com/resume/assets/履歴書202312.xls
-    word: https://keinchan.com/resume/assets/Resume_KeinChan(ChenQiying)_EN.docx
+    word: https://keinchan.com/resume/assets/KeinChan_Resume_SeniorManager_202506.docx
 
     languages:
       - idiom: Cantonese
@@ -69,12 +69,6 @@ sidebar:
       
       - item: Google Analytics Advanced
         link:
-        
-      - item: Janpanese Certified Financial Planner (level 3)
-        link:
-
-      - item: The Official Business Skills Test in Bookkeeping (2nd Grade)
-        link:
 
 brief:
     title: About Me
@@ -97,7 +91,7 @@ career-profile:
       - **Business Collaboration**: Served as key liaison between business and technical teams, optimizing requirements documentation processes (see project details page:<a href="https://keinchan.com/resume/project.html">https://keinchan.com/resume/project.html</a>):
         - **Cross-departmental Coordination**: Lamabang BI Group, Toyota Woven City Project
         - **Inter-company Coordination**: Softbank Robotics Enterprise Development, Rakuten Group internal bank/credit card collaborations, Line Yahoo data warehouse migration
-        - **Vendor Management**: Japanese Government’s Family Registry Digitization project (coordination with Russian OCR SDK supplier)
+        - **Vendor Management**: Japanese Government's Family Registry Digitization project (coordination with Russian OCR SDK supplier)
       <br/>
     changelanguage: 轉中文
     changelanguageurl: https://keinchan.com/resume-zh/ 
@@ -109,7 +103,7 @@ experiences:
       company: Amigo Technology Consulting Studio, Tokyo
       details: |
         - **LY Group Data Warehouse Migration**: As the technical lead and project manager, I led the migration of the enterprise-level data platform for Japan's Line Yahoo Group, including completing the full technical solution validation for the migration from the Teradata on-premise data center to AWS Redshift; responsible for migration resource evaluation and project schedule control to ensure timely delivery; developed standardized migration processes and data validation mechanisms to ensure data consistency; coordinated technical alignment and resource allocation within internal business units of the group.
-        - **Rakuten Pay (Instant Payment) Project**: Rakuten Pay is Japan's second-largest digital payment application. Led the backend technical team to develop and update the functionality of the credit card and digital payment/recharge features. Led communication meetings with stakeholders to determine interface standards for system integration and ensured the seamless integration of new features with the existing payment system.
+        - Rakuten Pay (Instant Payment) Project: Rakuten Pay is Japan's second-largest digital payment application. Led the backend technical team to develop and update the functionality of the credit card and digital payment/recharge features. Led communication meetings with stakeholders to determine interface standards for system integration and ensured the seamless integration of new features with the existing payment system.
         - **Japanese National Mobility Tracking System**: An internal project for SoftBank, one of Japan's three major telecom companies. By obtaining mobile base station and GPS location data, the project continuously manages the mobile phone location data, forming a data warehouse that covers approximately one-third of Japan's population. Responsible for the verification and investigation of the underlying framework and some visualization tasks. The project involves a large amount of personal information, so strict compliance with personal privacy protection requirements is essential.
         - **Japan Travel Itinerary Generator App(Personal Software Development Project)**: The app automatically plans travel itineraries based on user-input start and end points, modes of transportation, and travel destination information. The project includes: requirement analysis and system architecture planning, UI design, app development, backend development, admin panel development, and web scraping for data collection.
         - **Azas Project**: Azas is a digital safety management platform for construction sites that allows workers to independently report daily safety hazards and record safety behaviors through a smartphone app, optimizing the safety of the construction environment. Responsible for implementing core modules and ensuring system compatibility.
@@ -119,10 +113,10 @@ experiences:
       time: 2019.09 - 2022.10
       company: Outsourcing Technology(TSE Code:2427), Tokyo 
       details: |
-        Participated as a backend engineer in the Japanese government’s family registry digitization project and Toyota Group's smart city TRI-AD (now Woven Planet) development project.
-        - Participated in the Japanese government’s family registry digitization project led by Fujifilm, developing five Windows applications to assist the family registry department in addressing issues in the digitalization of the family registry system.
+        Participated as a backend engineer in the Japanese government's family registry digitization project and Toyota Group's smart city TRI-AD (now Woven Planet) development project.
+        - Participated in the Japanese government's family registry digitization project led by Fujifilm, developing five Windows applications to assist the family registry department in addressing issues in the digitalization of the family registry system.
           By introducing OCR (Optical Character Recognition) technology, the project converted scanned image-format family registry documents into structured data, improving processing efficiency from the previous 10 years of manual operations to just a few hours. The production environment involved Japanese citizens' family registry data and strictly adhered to Japan's Personal Information Protection Law to ensure the security and compliance of sensitive citizen data.
-        - Responsible for the backend development of the smart logistics delivery system for Toyota Group’s smart city (Woven City), designing and implementing the core system based on microservices architecture to support the collaborative operation of over 3,000 delivery robots.
+        - Responsible for the backend development of the smart logistics delivery system for Toyota Group's smart city (Woven City), designing and implementing the core system based on microservices architecture to support the collaborative operation of over 3,000 delivery robots.
       description: | 
         abbr:
         - TRI-AD: Toyota Research Institute - Advanced Development.
@@ -140,8 +134,8 @@ experiences:
       time: 2015.10 - 2018.05
       company: Lama Bang Technology Co., Ltd., Shenzhen
       details: |
-        Lama Bang app was one of China’s largest maternity and baby social media platforms. In addition to the Lama Bang app, the company also operates apps like Pregnancy Companion, Lama Bang Mall, and Lama Bang U-Select. As a fast-growing unicorn company, Lama Bang faced the challenge of rapidly increasing data volume and how to leverage this data effectively.
-        - **Database Architecture Upgrade**: Participated in the design and implementation of a new-generation data warehouse system to support the data analysis needs of the company’s products. Successfully addressed the data volume surge challenge brought by the increase in daily active users from 300,000 to 3.4 million, significantly improving data processing and storage efficiency.
+        Lama Bang app was one of China's largest maternity and baby social media platforms. In addition to the Lama Bang app, the company also operates apps like Pregnancy Companion, Lama Bang Mall, and Lama Bang U-Select. As a fast-growing unicorn company, Lama Bang faced the challenge of rapidly increasing data volume and how to leverage this data effectively.
+        - **Database Architecture Upgrade**: Participated in the design and implementation of a new-generation data warehouse system to support the data analysis needs of the company's products. Successfully addressed the data volume surge challenge brought by the increase in daily active users from 300,000 to 3.4 million, significantly improving data processing and storage efficiency.
         - **Business Intelligence System Development**: Developed an enterprise-grade OSS data platform that automated the calculation and visualization of daily statistical indicators. Over 2,000 data reports were generated annually, providing real-time data support to departments like operations, product, and advertising.
         - **Data-Driven Decision-Making System**: Built a user profiling system and A/B testing framework to support product iteration and user growth strategies, fostering the development of a data-driven culture within the company.
       description: |
@@ -299,7 +293,7 @@ projects:
                   4. Established monitoring system with rollback capabilities
                   5. Built copyright management backend improving takedown efficiency
 
-    - title: Japanese Government’s Family Registry Digitization (Fujifilm)
+    - title: Japanese Government's Family Registry Digitization (Fujifilm)
       link: "https://www.fujifilm.com/fbss/solution/public/"
       role: "Systems Engineer"
       description: Developed automation solutions for Japan's national registry digitization, implementing OCR and error detection to handle massive data correction workloads.
@@ -380,6 +374,7 @@ skills-details:
           - name: Teradata
             level: 85%
 
+    dataWarehouse:
           - name: Hadoop
             level: 85%
 
@@ -388,9 +383,6 @@ skills-details:
             level: 90%
 
           - name: Power BI
-            level: 90%
-
-          - name: Excel
             level: 90%
 
           - name: StreamLit
@@ -448,6 +440,9 @@ skills-details:
 
           - name: WPF
             level: 60%
+          
+          - name: React Native
+            level: 50%
 
     testTools:
           - name: Pytest
@@ -475,7 +470,16 @@ skills:
           - name: Python,Java,Scala,Swift,C#,R
 
     database:
-          - name: Mysql,PostgreSQL,OracleDB,<br/>Redshift,Teradata,Hive,Spark,Hbase
+          - name: Mysql, PostgreSQL, OracleDB, HBase
+
+    dataWarehouse:
+          - name: Redshift, Teradata, Hive
+
+    bigDataFramework:
+          - name: Hadoop
+
+    bigDataProcessing:
+          - name: Spark
 
     dataVisualization:
           - name: Microstrategy,PowerBI,Excel
@@ -487,7 +491,10 @@ skills:
           - name: Linux,Windows,MacOS
 
     cloudComputing:
-          - name: AWS
+          - name: AWS,GCP
+
+    CI/CD:
+          - name: Github Actions, Travis CI
 
     containerTechnology:
           - name: Docker,Vagrant,Ansible
