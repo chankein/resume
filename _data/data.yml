@@ -469,43 +469,44 @@ skills:
     programming:
           - name: Python,Java,Scala,Swift,C#,R
 
-    database:
-          - name: Mysql, PostgreSQL, OracleDB, HBase
-
-    dataWarehouse:
-          - name: Redshift, Teradata, Hive
-
-    bigDataFramework:
-          - name: Hadoop
-
-    bigDataProcessing:
-          - name: Spark
-
-    dataVisualization:
-          - name: Microstrategy,PowerBI,Excel
-
-    versionControl:
-          - name: Github,Git
-
     platform:
           - name: Linux,Windows,MacOS
 
+    versionControl:
+          - name: Github,Git
+          
+    database:
+          - name: Mysql,PostgreSQL,OracleDB
+
+    UIDesign:
+          - name: Photoshop,Figma
+
+    framework(Backend):
+          - name: Spring Boot,Django,Flask,FastApi
+
+    framework(App):
+          - name: SwiftUI,WPF
+  
+    testTools:
+          - name: Pytest,Junit,Selenium,Postman
+  
+    containerTechnology:
+          - name: Docker,Vagrant,Ansible
+  
     cloudComputing:
           - name: AWS,GCP
 
     CI/CD:
-          - name: Github Actions, Travis CI
+          - name: Github Actions,Travis CI
 
-    containerTechnology:
-          - name: Docker,Vagrant,Ansible
+    dataWarehouse:
+          - name: Redshift,Teradata
 
-    framework:
-          - name: Spring Boot,Django,Flask,FastApi,SwiftUI,WPF
+    bigDataEcosystem:
+          - name: Hadoop,Hive,HBase,Spark
 
-    testTools:
-          - name: Pytest,Junit,Selenium,Postman
+    dataVisualization:
+          - name: Microstrategy,PowerBI,Excel
 
-    UIDesign:
-          - name: Photoshop,Figma
 footer: >
     Designed by Kein Chan
