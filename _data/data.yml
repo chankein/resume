@@ -302,7 +302,7 @@ projects:
                   2. Managed 120+ database tables across applications
                   3. Designed document structuring system improving OCR accuracy from 65% to 85%
                   4. Created human review interfaces for hybrid processing
-                  5. Coordinated SDK-level support with a Russian OCR SDK supplier for Japanese character recognition, ensuring smooth cross-border collaboration.
+                  5. Coordinated SDK-level support with a Russian OCR SDK supplier for Japanese character recognition, ensuring smooth cross-border collaboration
                   6. Enforced strict data compliance policies
 
     - title: Toyota Smart Logistics (Woven City)
@@ -317,7 +317,7 @@ projects:
                   5. Developed Flask mock services for parallel testing
 
     - title: Softbank Pepper Robot Project
-      link: "https://www.softbankrobotics.com/emea/en/pepper/"
+      link: "https://www.softbankrobotics.com/solution/"
       role: "Test Engineer"
       description: Conducted system testing for Pepper humanoid robot's management system and enterprise applications.
       KeyAchievements: |
