@@ -247,17 +247,6 @@ projects:
                   1. Data consistency: Designed validation standards and automated verification framework with continuous optimization
                   1. Progress monitoring: Real-time tracking and issue resolution throughout migration execution
 
-    - title: Rakuten Pay
-      link: "https://payment.rakuten.co.jp/"
-      role: "Server-side Tech Lead"
-      description: As technical lead for Japan's top-tier payment platform, managed server-side feature iterations and maintenance.
-      KeyAchievements: |
-                  1. Organized integration meetings with external systems (credit cards/banks), ensuring seamless feature integration
-                  2. Implemented Agile project management via Jira, improving task allocation and issue tracking
-                  3. Established code review protocols to enhance code quality and maintainability
-                  4. Reviewed API documentation and test cases (UT/IT/PT)
-                  5. Developed new payment modules and coordinated server-mobile integrations
-
     - title: Japanese National Mobility Tracking System
       link: "https://www.softbank.jp/biz/services/analytics/ugoki/"
       role: "Big Data Engineer (Tech Lead)"
