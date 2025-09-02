@@ -94,11 +94,11 @@ career-profile:
     title: Career Profile
     summary: |
       **Full-Stack Engineer and Data Architect**: Over 10 years of enterprise-level full-stack development and data application experience, proficient in the full Software Development Life Cycle (SDLC), skilled in leading distributed teams, and designing efficient, stable web/mobile applications and data integration solutions to drive business objectives.
-      - **Technical Leadership**: Led a 15-person team at Line Yahoo, establishing development standards and processes, managing project timelines and resource allocation, and ensuring on-time delivery of high-performance applications in high-pressure environments.
-      - **Data Applications and Integration**: Designed a data platform for a 3.4M daily active user application, increasing retention by 7.67% through A/B testing to support real-time analytics; developed an OCR tool, reducing 10-year manual processing to 4 hours for efficient data integration; led a local data warehouse migration to AWS Redshift, significantly reducing operational costs and enhancing system efficiency.
+      - **Technical Leadership**: Led a 15 engineers team at Line Yahoo group, establishing development standards and processes, managing project timelines and resource allocation, and ensuring on-time delivery of high-performance applications in high-pressure environments.
+      - **Data Applications and Integration**: Designed a data platform for a 3.4M daily active user application, increasing retention by 7.67% through A/B testing to support real-time analytics; developed an OCR tool, reducing 10-year manual processing to 4 hours for efficient data integration; led a on-premise data warehouse migration to AWS Redshift, significantly reducing operational costs and enhancing system efficiency.
       - **Core Strengths**:
         - **Technical Expertise**: Proficient in multiple programming languages and frameworks (Python, Java, C#, SwiftUI), selecting optimal tech stacks for efficient development. Skilled in Django, Spring Boot, and Flask frameworks, with extensive experience in cloud deployment and system service management, supporting large-scale distributed systems. Capable of independently designing UI and developing apps using SwiftUI for iOS and C#/WPF frameworks.
-        - **Development Process**: Proficient in the full SDLC cycle, covering requirements analysis, design, development, testing, CI/CD, and operations, excelling in Agile/Scrum management to ensure efficient delivery 
+        - **Development Process**: Proficient in the full SDLC cycle, covering requirements analysis, design, development, testing, CI/CD, and operations, excelling in Agile/Scrum management to ensure efficient delivery.
       (see project details page:<a href="https://keinchan.com/resume/project.html">https://keinchan.com/resume/project.html</a>):
       <br/>
     changelanguage: 轉中文
