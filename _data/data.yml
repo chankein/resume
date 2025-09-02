@@ -279,15 +279,6 @@ projects:
                   5. Created cross-platform admin system with React Native
                   6. Implemented CI/CD pipeline with cloud infrastructure
 
-    - title: Azas Project
-      link: "https://sales.azas-token.com/"
-      role: "Technical Consultant & PM"
-      description: A digital platform enabling construction workers to report safety issues via mobile app, incorporating real-time rewards to enhance safety culture (Agile development).
-      KeyAchievements: |
-                  1. Conducted technical feasibility studies and architectural design
-                  2. Managed cross-departmental coordination and issue resolution
-                  3. Solved React Native compatibility issues across iOS/Android versions
-
     - title: Nanamusic
       link: "https://nana-music.com/"
       role: "Server-side Engineer"
@@ -298,6 +289,7 @@ projects:
                   3. Implemented Terraform-based IaC on AWS, reducing human errors
                   4. Established monitoring system with rollback capabilities
                   5. Built copyright management backend improving takedown efficiency
+                  6. Solved React Native compatibility issues across iOS/Android versions
 
     - title: Japanese Government's Family Registry Digitization (Fujifilm)
       link: "https://www.fujifilm.com/fbss/solution/public/"
