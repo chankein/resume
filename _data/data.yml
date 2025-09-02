@@ -120,9 +120,9 @@ experiences:
       company: Outsourcing Technology(TSE Code:2427), Tokyo 
       details: |
         Participated as a backend engineer in the Japanese government's family registry digitization project and Toyota Group's smart city TRI-AD (now Woven Planet) development project.
-        - Participated in the Japanese government's family registry digitization project led by Fujifilm, developing five Windows applications to assist the family registry department in addressing issues in the digitalization of the family registry system.
+        - Participated in the **Japanese government's family registry digitization project** led by Fujifilm, developing five Windows applications to assist the family registry department in addressing issues in the digitalization of the family registry system.
           By introducing OCR (Optical Character Recognition) technology, the project converted scanned image-format family registry documents into structured data, improving processing efficiency from the previous 10 years of manual operations to just a few hours. The production environment involved Japanese citizens' family registry data and strictly adhered to Japan's Personal Information Protection Law to ensure the security and compliance of sensitive citizen data.
-        - Responsible for the backend development of the smart logistics delivery system for Toyota Group's smart city (Woven City), designing and implementing the core system based on microservices architecture to support the collaborative operation of over 3,000 delivery robots.
+        - Responsible for the backend development of the **smart logistics delivery system** for Toyota Group's smart city (Woven City), designing and implementing the core system based on microservices architecture to support the collaborative operation of over 3,000 delivery robots.
       description: | 
         abbr:
         - TRI-AD: Toyota Research Institute - Advanced Development.
