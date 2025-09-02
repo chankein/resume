@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Kein Chan
-    tagline: Senior Full-stack Technical Consultant <br/> Data Architect
+    tagline: Full-stack Engineer <br/> Data Architect
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -64,6 +64,12 @@ sidebar:
       - item: MySQL 8.0 Database Developer Oracle Certified Professional
         link:
 
+      - item: MySQL 8.0 Database Administrator Oracle Certified Professional
+        link:
+
+      - item: Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+        link:
+
       - item: Oracle Cloud Infrastructure 2025 Data Science Professional
         link:
 
@@ -80,42 +86,36 @@ brief:
     title: About Me
     summary: |
       Senior Engineer with over 10 years of experience in server-side development and practical AI/Big-Data projects, aside from server-side development, also has the ability to independently develop iOS and Windows programs.<br/>
-      Provide solutions for the Japanese Government, Toyota, Rakuten Pay, SoftBank, Fuji Film(Xerox), nanamusic, and Fujitsu Network Solutions.<br/>
+      Provide solutions for the Japanese Government, Toyota, SoftBank, Fuji Film(Xerox), nanamusic.<br/>
       <br/>
    
 
 career-profile:
     title: Career Profile
     summary: |
-      **Senior Technical Expert & Project Lead**: Over 10 years of enterprise-level full-stack development and big data architecture experience, with hands-on expertise across the entire software development lifecycle. Specialized in cross-departmental, cross-company, and multinational team collaboration and technical team management.
-      - **Technical Leadership**: Served as technical lead for projects at Rakuten Pay, Line Yahoo Group and other leading Japanese enterprises, managing teams of 5-15 members. Responsible for solving critical technical challenges, conducting technical training, project issue management, and establishing standardized development processes.
-      - **Data Solutions**: Designed data middleware for Lamabang (3.4M DAU), improving user retention by 7.67% through user profiling and A/B testing. Developed OCR tools for the Japanese government, reducing manual processing time from 10 years to 4 hours. Led cloud migration of data warehouse frameworks for Line Yahoo and Softbank Group, significantly reducing operational costs.
-      - **Project Compliance**: Implemented strict data security and compliance standards across multiple projects handling Japanese citizens' personal information, maintaining perfect compliance record.
-
-      **Core Competencies**
-      - **Technical Breadth**: End-to-end development experience from requirements analysis, system design, technology selection to architecture, testing, deployment, CI/CD and operations. Expertise spans server-side development, data warehouse design/optimization, on-premise/cloud infrastructure, and agile/waterfall project management.
-      - **Business Collaboration**: Served as key liaison between business and technical teams, optimizing requirements documentation processes (see project details page:<a href="https://keinchan.com/resume/project.html">https://keinchan.com/resume/project.html</a>):
-        - **Cross-departmental Coordination**: Lamabang BI Group, Toyota Woven City Project
-        - **Inter-company Coordination**: Softbank Robotics Enterprise Development, Rakuten Group internal bank/credit card collaborations, Line Yahoo data warehouse migration
-        - **Vendor Management**: Japanese Government's Family Registry Digitization project (coordination with Russian OCR SDK supplier)
+      **Full-Stack Engineer and Data Architect**: Over 10 years of enterprise-level full-stack development and data application experience, proficient in the full Software Development Life Cycle (SDLC), skilled in leading distributed teams, and designing efficient, stable web/mobile applications and data integration solutions to drive business objectives.
+      - **Technical Leadership**: Led a 15-person team at Line Yahoo, establishing development standards and processes, managing project timelines and resource allocation, and ensuring on-time delivery of high-performance applications in high-pressure environments.
+      - **Data Applications and Integration**: Designed a data platform for a 3.4M daily active user application, increasing retention by 7.67% through A/B testing to support real-time analytics; developed an OCR tool, reducing 10-year manual processing to 4 hours for efficient data integration; led a local data warehouse migration to AWS Redshift, significantly reducing operational costs and enhancing system efficiency.
+      - **Core Strengths**:
+        - **Technical Expertise**: Proficient in multiple programming languages and frameworks (Python, Java, C#, SwiftUI), selecting optimal tech stacks for efficient development. Skilled in Django, Spring Boot, and Flask frameworks, with extensive experience in cloud deployment and system service management, supporting large-scale distributed systems. Capable of independently designing UI and developing apps using SwiftUI for iOS and C#/WPF frameworks.
+        - **Development Process**: Proficient in the full SDLC cycle, covering requirements analysis, design, development, testing, CI/CD, and operations, excelling in Agile/Scrum management to ensure efficient delivery 
+      (see project details page:<a href="https://keinchan.com/resume/project.html">https://keinchan.com/resume/project.html</a>):
       <br/>
     changelanguage: 轉中文
     changelanguageurl: https://keinchan.com/resume-zh/ 
 
 experiences:
 
-    - role: Senior Full Stack Technical Consultant&Data Architect
+    - role: Full Stack Technical Consultant & Data Architect
       time: 2022.11 - Present
       company: Amigo Technology Consulting Studio, Tokyo
       details: |
-        - **LY Group Data Warehouse Migration**: As the technical lead and project manager, I led the migration of the enterprise-level data platform for Japan's Line Yahoo Group, including completing the full technical solution validation for the migration from the Teradata on-premise data center to AWS Redshift; responsible for migration resource evaluation and project schedule control to ensure timely delivery; developed standardized migration processes and data validation mechanisms to ensure data consistency; coordinated technical alignment and resource allocation within internal business units of the group.
-        - **Rakuten Pay (Instant Payment) Project**: Rakuten Pay is Japan's second-largest digital payment application. Led the backend technical team to develop and update the functionality of the credit card and digital payment/recharge features. Led communication meetings with stakeholders to determine interface standards for system integration and ensured the seamless integration of new features with the existing payment system.
+        - **LY Group Data Warehouse Migration**: As the technical lead and project manager, I led the migration of the enterprise-level data platform for Japan's Line Yahoo Group, including completing the full technical solution validation for the migration from the Teradata on-premise data center to AWS Redshift; responsible for migration resource evaluation and project schedule control to ensure timely delivery; developed standardized migration processes and data validation mechanisms to ensure data consistency; coordinated technical alignment and resource allocation within internal business units of the group.Based on peer benchmarks, the project is estimated to reduce operational costs by 35%-45% (covering licenses, hardware, maintenance).
         - **Japanese National Mobility Tracking System**: An internal project for SoftBank, one of Japan's three major telecom companies. By obtaining mobile base station and GPS location data, the project continuously manages the mobile phone location data, forming a data warehouse that covers approximately one-third of Japan's population. Responsible for the verification and investigation of the underlying framework and some visualization tasks. The project involves a large amount of personal information, so strict compliance with personal privacy protection requirements is essential.
         - **Japan Travel Itinerary Generator App(Personal Software Development Project)**: The app automatically plans travel itineraries based on user-input start and end points, modes of transportation, and travel destination information. The project includes: requirement analysis and system architecture planning, UI design, app development, backend development, admin panel development, and web scraping for data collection.
-        - **Azas Project**: Azas is a digital safety management platform for construction sites that allows workers to independently report daily safety hazards and record safety behaviors through a smartphone app, optimizing the safety of the construction environment. Responsible for implementing core modules and ensuring system compatibility.
         - **Japan Music Creation App - Nanamusic Project**: Responsible for backend management development and system maintenance, promptly addressing system failures caused by version updates, malicious attacks, etc.
   
-    - role: Backend Engineer (Backend Technical Expert)
+    - role: Backend Engineer
       time: 2019.09 - 2022.10
       company: Outsourcing Technology(TSE Code:2427), Tokyo 
       details: |
