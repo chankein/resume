@@ -267,66 +267,69 @@ projects:
                   4. Developed proprietary multi-destination routing algorithm
                   5. Created cross-platform admin system with React Native
                   6. Implemented CI/CD pipeline with cloud infrastructure
+                  7. Implemented Agile project management via GitHub Projects, efficiently tracking task progress
 
     - title: Nanamusic
       link: "https://nana-music.com/"
       role: "Server-side Engineer"
       description: As core developer for this popular Japanese music creation app, handled architecture design and DevOps using Agile methodology.
       KeyAchievements: |
-                  1. Developed RESTful APIs with UT/UI testing frameworks
-                  2. Optimized CI/CD pipeline, reducing 3,600+ UI tests from 4hr to 1hr
-                  3. Implemented Terraform-based IaC on AWS, reducing human errors
-                  4. Established monitoring system with rollback capabilities
-                  5. Built copyright management backend improving takedown efficiency
-                  6. Solved React Native compatibility issues across iOS/Android versions
+                  1. Server-side API Development & Maintenance: Designed and developed RESTful API services, improved unit-testing (UT) and integration-testing (UI) pipelines, and ensured system stability during version iterations.  
+                  2. CI/CD Pipeline Optimization: Streamlined the CI/CD workflow, cutting execution time for more than 3,600 server-side UI tests from four hours to one hour, significantly boosting development efficiency.  
+                  3. Cloud-Service Management: Maintained AWS and other cloud platforms using Terraform-based Infrastructure as Code (IaC), reducing human error and increasing system reliability.  
+                  4. Server Monitoring & Incident Response: Monitored server resources, promptly handled failures, rolled back releases when necessary, and mitigated malicious attacks (e.g., IP blocking).  
+                  5. Operations-Management Platform Development: Enhanced an internal operations platform, improving the team’s efficiency in handling copyright-infringement cases and ensuring timely updates to music metadata.  
+                  6. Cross-Platform Compatibility: Resolved React Native compatibility issues during Android/iOS version upgrades to guarantee stable cross-platform performance.
 
     - title: Japanese Government's Family Registry Digitization (Fujifilm)
       link: "https://www.fujifilm.com/fbss/solution/public/"
       role: "Systems Engineer"
       description: Developed automation solutions for Japan's national registry digitization, implementing OCR and error detection to handle massive data correction workloads.
       KeyAchievements: |
-                  1. Translated business requirements into technical solutions
-                  2. Managed 120+ database tables across applications
-                  3. Designed document structuring system improving OCR accuracy from 65% to 85%
-                  4. Created human review interfaces for hybrid processing
-                  5. Coordinated SDK-level support with a Russian OCR SDK supplier for Japanese character recognition, ensuring smooth cross-border collaboration
-                  6. Enforced strict data compliance policies
+                  1. Liaised with business stakeholders to elicit and refine requirements, participated in business-process design, and ensured technical feasibility of projects.  
+                  2. Designed and implemented database schemas for multiple applications; managed more than 120 database tables.  
+                  3. Devised and tuned structured-document definitions for scanned documents, abstracting document structures into relational table designs.  
+                  4. Developed patch programs that raised average recognition accuracy from 65 % to over 85 %.  
+                  5. Designed manual-review interfaces and streamlined human-in-the-loop workflows.  
+                  6. Coordinated SDK-level technical support for the Russian ABBYY OCR engine, resolving core issues such as Japanese character recognition.  
+                  7. Enforced data-compliance policies by isolating development and production datasets, safeguarding real user privacy and eliminating data-leakage risks.
 
     - title: Toyota Smart Logistics (Woven City)
       link: "https://www.woven-city.global/"
       role: "Server-side Engineer"
       description: Developed microservices for the autonomous robot logistics network in Toyota's future smart city (2,000 residents), following Agile methodology.
       KeyAchievements: |
-                  1. Designed scalable microservice architecture
-                  2. Defined data schemas and API specifications
-                  3. Implemented containerization with docker-compose
-                  4. Built REST/MQTT/RabbitMQ microservices with Spring Boot
-                  5. Developed Flask mock services for parallel testing
+                  1. Modeled functional modules from business workflows, designed microservice entities, and delivered a highly scalable and fault-tolerant microservices architecture.  
+                  2. Devised the core data-flow blueprint, defined database schemas and interface specifications, and authored comprehensive technical documentation.  
+                  3. Leveraged Docker Compose for container orchestration to ensure identical and isolated dev/test/prod environments, eliminating environment-shift issues during development.  
+                  4. Built REST APIs and standard microservice instances using Spring Boot, integrating MQTT and RabbitMQ for messaging.  
+                  5. Designed and executed unit tests, integration tests, and functional tests to guarantee project quality.  
+                  6. For external systems and internal modules still under development, rapidly created mock services with Flask to satisfy interface-testing needs during development.
 
     - title: Softbank Pepper Robot Project
       link: "https://www.softbankrobotics.com/jp/product/education/furusato/?_gl=1*y4lqwb*_ga*MjEwNjQ4MDM0LjE3NTA4NDUxOTQ.*_ga_4MD1NXTN7F*czE3NTIwMjc2MjIkbzMkZzAkdDE3NTIwMjc2MjIkajYwJGwwJGgw"
       role: "Test Engineer"
       description: Conducted system testing for Pepper humanoid robot's management system and enterprise applications.
       KeyAchievements: |
-                  1. Designed full-cycle test plans (UT/IT/functional)
-                  2. Led UAT ensuring release readiness
-                  3. Automated testing (Selenium) reducing effort by 87.5%
-                  4. Built AWS-based log analysis system
-                  5. Served as technical liaison with Aldebaran Robotics
-                  6. Managed 200+ issues via Redmine
+                  1. Designed and executed end-to-end test plans for the Pepper management system and Pepper App, covering unit, integration, and functional testing at every phase.  
+                  2. Led User Acceptance Testing (UAT) to guarantee the reliability and user experience of each new App release.  
+                  3. Built a Selenium-based automation framework that cut manual testing effort by 87.5 % (from 4 person-days to 0.5 person-days).  
+                  4. Established an automated fault-log collection system, enabling centralized logging management and analytics on AWS.  
+                  5. Reproduced and analyzed newly reported bugs, gathered comprehensive logs, and generated technical reports; served as the primary technical liaison to Aldebaran Robotics in France, collaborating on hardware-compatibility issues.  
+                  6. Efficiently tracked and managed the entire lifecycle of 200+ defects via the Redmine platform.
 
     - title: Lamabang Business Intelligence
       link: "http://www.lamabang.com/article/detail/m-about.html/"
       role: "Big Data Engineer"
       description: Built data infrastructure for China's leading maternal social platform (3.4M DAU) to enable data-driven decisions.
       KeyAchievements: |
-                  1. Implemented 3,400+ tracking points across platforms
-                  2. Developed ETL pipelines with SQL/Shell/Python/Scala
-                  3. Designed Hadoop warehouse supporting 300K→3.4M DAU growth
-                  4. Created real-time visualization dashboards
-                  5. Reduced anomaly response time by 80% via automated alerts
-                  6. Established ML-based user profiling (7.67% retention lift)
-                  7. Designed A/B testing framework for product iteration
+                  1. Designed, defined, tested, and governed more than 3,400 tracking events; led cross-functional data-alignment sessions with business and engineering teams to translate business needs into technical solutions, enabling comprehensive user-behavior capture and analytics.  
+                  2. Built high-performance ETL pipelines leveraging SQL, Shell, Python, and Scala to process massive-scale datasets.  
+                  3. Architected a scalable Hadoop-based data warehouse that supported rapid growth in daily active users from 0.3 million to 3.4 million.  
+                  4. Developed and maintained a real-time data-visualization platform that provides actionable insights to operations and executive stakeholders.  
+                  5. Created an anomaly-detection module that alerts the ops team instantly via WeChat and email when data irregularities occur, cutting average response time by 80 %.  
+                  6. Designed and executed A/B tests to deliver data-driven guidance for app development priorities.  
+                  7. Established user personas by integrating machine-learning models to analyze behavioral patterns, boosting 7-day user retention by 7.67 % on average.
 
 skills-details:
     title: Technical Skills
