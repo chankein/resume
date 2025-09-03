@@ -25,15 +25,15 @@ sidebar:
     gitlab:
     # http://localhost:4000/assets/resume_cn.pdf
     # https://keinchan.com/resume/assets/resume_cn.pdf
-    resume: https://keinchan.com/resume/assets/KeinChan_Resume_202506.pdf
+    resume: https://keinchan.com/resume/assets/KeinChan_Resume_202509.pdf
     # bitbucket:
     # twitter: '@webjeda'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://keinchan.com/resume/assets/KeinChan_Resume_202506.pdf
+    pdf: https://keinchan.com/resume/assets/KeinChan_Resume_202509.pdf
     #excel: https://keinchan.com/resume/assets/履歴書202312.xls
-    word: https://keinchan.com/resume/assets/KeinChan_Resume_202506.docx
+    word: https://keinchan.com/resume/assets/KeinChan_Resume_202509.docx
 
     languages:
       - idiom: Cantonese
@@ -113,7 +113,7 @@ experiences:
         - **LY Group Data Warehouse Migration**: As the technical lead and project manager, I led the migration of the enterprise-level data platform for Japan's Line Yahoo Group, including completing the full technical solution validation for the migration from the Teradata on-premise data center to AWS Redshift; responsible for migration resource evaluation and project schedule control to ensure timely delivery; developed standardized migration processes and data validation mechanisms to ensure data consistency; coordinated technical alignment and resource allocation within internal business units of the group.Based on peer benchmarks, the project is estimated to reduce operational costs by 35%-45% (covering licenses, hardware, maintenance).
         - **Japanese National Mobility Tracking System**: An internal project for SoftBank, one of Japan's three major telecom companies. By obtaining mobile base station and GPS location data, the project continuously manages the mobile phone location data, forming a data warehouse that covers approximately one-third of Japan's population. Responsible for the verification and investigation of the underlying framework and some visualization tasks. The project involves a large amount of personal information, so strict compliance with personal privacy protection requirements is essential.
         - **Japan Travel Itinerary Generator App(Personal Software Development Project)**: The app automatically plans travel itineraries based on user-input start and end points, modes of transportation, and travel destination information. The project includes: requirement analysis and system architecture planning, UI design, app development, backend development, admin panel development, and web scraping for data collection.
-        - **Japan Music Creation App - Nanamusic Project**: Responsible for backend management development and system maintenance, promptly addressing system failures caused by version updates, malicious attacks, etc.
+        - **Nanamusic Project**: Responsible for backend management development and system maintenance, promptly addressing system failures caused by version updates, malicious attacks, etc.
   
     - role: Backend Engineer
       time: 2019.09 - 2022.10
