@@ -107,7 +107,7 @@ career-profile:
 experiences:
 
     - role: Full-stack Engineer & Data Architect
-      time: 2022.11 - Present
+      time: 2022.11 - 2025.09
       company: Amigo Technology Consulting Studio, Tokyo
       details: |
         - **LY Group Data Warehouse Migration**: As the technical lead and project manager, I led the migration of the enterprise-level data platform for Japan's Line Yahoo Group, including completing the full technical solution validation for the migration from the Teradata on-premise data center to AWS Redshift; responsible for migration resource evaluation and project schedule control to ensure timely delivery; developed standardized migration processes and data validation mechanisms to ensure data consistency; coordinated technical alignment and resource allocation within internal business units of the group.Based on peer benchmarks, the project is estimated to reduce operational costs by 35%-45% (covering licenses, hardware, maintenance).
