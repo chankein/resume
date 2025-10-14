@@ -274,8 +274,8 @@ projects:
       role: "Server-side Engineer"
       description: As core developer for this popular Japanese music creation app, handled architecture design and DevOps using Agile methodology.
       KeyAchievements: |
-                  1. Server-side API Development & Maintenance: Designed and developed RESTful API services, improved unit-testing (UT) and integration-testing (UI) pipelines, and ensured system stability during version iterations.  
-                  2. CI/CD Pipeline Optimization: Streamlined the CI/CD workflow, cutting execution time for more than 3,600 server-side UI tests from four hours to one hour, significantly boosting development efficiency.  
+                  1. Server-side API Development & Maintenance: Designed and developed RESTful API services, improved unit-testing (UT) and integration-testing (IT) pipelines, and ensured system stability during version iterations.  
+                  2. CI/CD Pipeline Optimization: Streamlined the CI/CD workflow, cutting execution time for more than 3,600 server-side UT tests from four hours to one hour, significantly boosting development efficiency.  
                   3. Cloud-Service Management: Maintained AWS and other cloud platforms using Terraform-based Infrastructure as Code (IaC), reducing human error and increasing system reliability.  
                   4. Server Monitoring & Incident Response: Monitored server resources, promptly handled failures, rolled back releases when necessary, and mitigated malicious attacks (e.g., IP blocking).  
                   5. Operations-Management Platform Development: Enhanced an internal operations platform, improving the team’s efficiency in handling copyright-infringement cases and ensuring timely updates to music metadata.  
